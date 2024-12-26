@@ -1,6 +1,6 @@
 # main.py
 def suma(a, b):
-    return a + b
+    return a - b  # ERROR introducido deliberadamente
 
 def multiplica(a, b):
     return a * b
