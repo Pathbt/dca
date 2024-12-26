@@ -1,6 +1,6 @@
 # main.py
 def suma(a, b):
-    return a - b  # ERROR introducido deliberadamente
+    return a + b  # ERROR arreglado
 
 def suma3(a, b, c):
     return a + b + c 
